@@ -12,13 +12,11 @@ Modele 3D wież obronnych wykonane w **Blenderze** na podstawie  szkiców koncep
 
 ## Pliki
 
-| Plik | Wieża |
-|------|-------|
-| `w1.blend` | Wieża 1 (img/w1.png) |
-| `w2.blend` | Wieża 2  (img/w2.png)|
-| `w3.blend` | Wieża 3 (img/w3.png)|
-| `w4.blend` | Wieża 4  (img/w4.png)|
-| `w5.blend` | Wieża 5 (img/w5.png)|
+`w1.blend` (img/w1.png) 
+`w2.blend` (img/w2.png)
+`w3.blend`  (img/w3.png)
+`w4.blend`  (img/w4.png)
+`w5.blend`  (img/w5.png)
 
 ---
 
