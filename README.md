@@ -13,41 +13,37 @@ Modele 3D wież obronnych wykonane w **Blenderze** na podstawie  szkiców koncep
 
 ## Modele
 
-### Wieża 1 – Gotycka
+### Wieża 1 
 ![Wieża 1](img/w1.png)
 
-Masywna, bryła z ostrymi zakończeniami. 
 Plik: `w1.blend`
 
 ---
 
-### Wieża 2 – Industrialna
+### Wieża 2 
 ![Wieża 2](img/w2.png)
 
-Smukła wieża z centralnym czerwonym elementem sygnalizacyjnym.
 Plik: `w2.blend`
 
 ---
 
-### Wieża 3 – Radarowa
+### Wieża 3 
 ![Wieża 3](img/w3.png)
 
-Wieża z obrotową anteną / talerzem radarowym. 
 Plik: `w3.blend`
 
 ---
 
-### Wieża 4 – Wielolufowa
+### Wieża 4 
 ![Wieża 4](img/w4.png)
 
-Kompaktowa jednostka z widocznymi lufami i czerwonymi elementami. 
 Plik: `w4.blend`
 
 ---
 
-### Wieża 5 – Mechaniczna
+### Wieża 5 
 ![Wieża 5](img/w5.png)
-Model czaszkowy
+
 Plik: `w5.blend`
 
 ---
