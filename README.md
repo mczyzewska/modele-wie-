@@ -10,15 +10,41 @@ Modele 3D wież obronnych wykonane w **Blenderze** na podstawie  szkiców koncep
 
 ---
 
-## Pliki
 
-| Plik | Wieża |
-|------|-------|
-| `w1.blend` | Wieża 1 (img/w1.png) |
-| `w2.blend` | Wieża 2  (img/w2.png)|
-| `w3.blend` | Wieża 3 (img/w3.png)|
-| `w4.blend` | Wieża 4  (img/w4.png)|
-| `w5.blend` | Wieża 5 (img/w5.png)|
+## Modele
+
+### Wieża 1 
+![Wieża 1](img/w1.png)
+
+Plik: `w1.blend`
+
+---
+
+### Wieża 2 
+![Wieża 2](img/w2.png)
+
+Plik: `w2.blend`
+
+---
+
+### Wieża 3 
+![Wieża 3](img/w3.png)
+
+Plik: `w3.blend`
+
+---
+
+### Wieża 4 
+![Wieża 4](img/w4.png)
+
+Plik: `w4.blend`
+
+---
+
+### Wieża 5 
+![Wieża 5](img/w5.png)
+
+Plik: `w5.blend`
 
 ---
 
@@ -42,7 +68,7 @@ Każda wieża została zaprojektowana jako unikalna jednostka o odmiennej stylis
 Wieże są elementem gry **tower defense**, w której:
 - Wróg porusza się po **krętej ścieżce** od punktu *Początek* do *Koniec*
 - Wieże rozmieszczone są wzdłuż trasy i atakują gracza
--
+
 
 ---
 
