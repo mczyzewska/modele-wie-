@@ -4,7 +4,7 @@ Modele 3D wież obronnych wykonane w **Blenderze** na podstawie  szkiców koncep
 
 ## Podgląd koncepcji
 
-![Szkice wież i projekt widoku gry](wieze.png)
+![Szkice wież i projekt widoku gry](img/wieze.png)
 
 *Projekt widoku rozgrywki: kręta ścieżka, rozmieszczone wieże obronne.*
 
@@ -14,11 +14,11 @@ Modele 3D wież obronnych wykonane w **Blenderze** na podstawie  szkiców koncep
 
 | Plik | Wieża |
 |------|-------|
-| `w1.blend` | Wieża 1 |
-| `w2.blend` | Wieża 2  |
-| `w3.blend` | Wieża 3 |
-| `w4.blend` | Wieża 4  |
-| `w5.blend` | Wieża 5 |
+| `w1.blend` | Wieża 1 (img/w1.png) |
+| `w2.blend` | Wieża 2  (img/w2.png)|
+| `w3.blend` | Wieża 3 (img/w3.png)|
+| `w4.blend` | Wieża 4  (img/w4.png)|
+| `w5.blend` | Wieża 5 (img/w5.png)|
 
 ---
 
