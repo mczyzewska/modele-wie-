@@ -68,7 +68,7 @@ Każda wieża została zaprojektowana jako unikalna jednostka o odmiennej stylis
 Wieże są elementem gry **tower defense**, w której:
 - Wróg porusza się po **krętej ścieżce** od punktu *Początek* do *Koniec*
 - Wieże rozmieszczone są wzdłuż trasy i atakują gracza
--
+
 
 ---
 
